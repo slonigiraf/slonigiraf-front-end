@@ -1,9 +1,9 @@
 {
   "name": "polkadot-apps",
-  "repository": "https://github.com/polkadot-js/apps",
+  "repository": "https://github.com/slonigiraf/slonigiraf-front-end",
   "main": "packages/apps-electron/build/electron.js",
-  "description": "An Apps portal into the Polkadot network",
-  "author": "Jaco Greeff <jacogr@gmail.com>",
+  "description": "An Apps portal into the Slonigiraf network",
+  "author": "Denis Reshetov <reshetovdenis@gmail.com>",
   "version": "0.78.2-42",
   "license": "Apache-2",
   "private": true,
